@@ -1,6 +1,6 @@
 # EmailNotification
 
-Add dependency for this project:
+Add dependency for this project(SBT):
 
 libraryDependencies += "javax.mail" % "mail" % "1.4.1"
 
